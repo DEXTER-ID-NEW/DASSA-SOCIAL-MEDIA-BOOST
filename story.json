@@ -1,0 +1,84 @@
+{
+  "services": [
+    {
+      "name": "YouTube Subscribers",
+      "options": [
+        { "quantity": "100", "price": "LKR 200" },
+        { "quantity": "300", "price": "LKR 580" },
+        { "quantity": "500", "price": "LKR 850" },
+        { "quantity": "1000", "price": "LKR 1550" }
+      ],
+      "logo_url": "https://telegra.ph/file/2d9a21c403a79096b88c1.jpg"
+    },
+    {
+      "name": "YouTube Likes",
+      "options": [
+        { "quantity": "100", "price": "LKR 120" },
+        { "quantity": "200", "price": "LKR 240" },
+        { "quantity": "300", "price": "LKR 340" },
+        { "quantity": "500", "price": "LKR 550" },
+        { "quantity": "1000", "price": "LKR 850" }
+      ],
+      "logo_url": "https://path-to-logo.com/youtube-logo.png"
+    },
+    {
+      "name": "YouTube Views",
+      "options": [
+        { "quantity": "300", "price": "LKR 200" },
+        { "quantity": "600", "price": "LKR 500" },
+        { "quantity": "800", "price": "LKR 700" },
+        { "quantity": "1000", "price": "LKR 850" }
+      ],
+      "logo_url": "https://path-to-logo.com/youtube-logo.png"
+    },
+    {
+      "name": "TikTok Likes",
+      "options": [
+        { "quantity": "250", "price": "LKR 80" },
+        { "quantity": "500", "price": "LKR 150" },
+        { "quantity": "1000", "price": "LKR 250" },
+        { "quantity": "2000", "price": "LKR 390" },
+        { "quantity": "3000", "price": "LKR 550" },
+        { "quantity": "5000", "price": "LKR 780" }
+      ],
+      "logo_url": "https://path-to-logo.com/tiktok-logo.png"
+    },
+    {
+      "name": "TikTok Views",
+      "options": [
+        { "quantity": "10k", "price": "LKR 80" },
+        { "quantity": "100k", "price": "LKR 100" },
+        { "quantity": "500k", "price": "LKR 180" },
+        { "quantity": "1M", "price": "LKR 280" }
+      ],
+      "logo_url": "https://path-to-logo.com/tiktok-logo.png"
+    },
+    {
+      "name": "TikTok Followers",
+      "options": [
+        { "quantity": "500", "price": "LKR 680" },
+        { "quantity": "1000", "price": "LKR 990" }
+      ],
+      "logo_url": "https://path-to-logo.com/tiktok-logo.png"
+    },
+    {
+      "name": "Instagram Likes",
+      "options": [
+        { "quantity": "250", "price": "LKR 80" },
+        { "quantity": "500", "price": "LKR 120" },
+        { "quantity": "1000", "price": "LKR 200" },
+        { "quantity": "2000", "price": "LKR 350" },
+        { "quantity": "5000", "price": "LKR 750" }
+      ],
+      "logo_url": "https://path-to-logo.com/instagram-logo.png"
+    },
+    {
+      "name": "Instagram Followers",
+      "options": [
+        { "quantity": "500", "price": "LKR 750" },
+        { "quantity": "1000", "price": "LKR 1100" }
+      ],
+      "logo_url": "https://path-to-logo.com/instagram-logo.png"
+    }
+  ]
+}
